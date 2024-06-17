@@ -161,11 +161,9 @@ Use the Debug toolbar to inspect variables, evaluate expressions, and continue e
 
     Answer
 Initialize a Repository:
-
 Open your project folder in VS Code.
 Open the integrated terminal (`Ctrl+``) and run: git init
 Stage and Commit Changes:
-
 Make changes to your files.
 Stage changes by clicking the + next to each file in the Source Control view (Ctrl+Shift+G).
 Enter a commit message in the text box at the top of the view and click the check mark (✓) to commit.
